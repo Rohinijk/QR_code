@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/QR_code.git/static/css/main.499f91f3.css",
-    "main.js": "/QR_code.git/static/js/main.e17340a2.js",
-    "static/media/ph1.jpg": "/QR_code.git/static/media/ph1.11702bd588481d42fb50.jpg",
-    "index.html": "/QR_code.git/index.html",
-    "main.499f91f3.css.map": "/QR_code.git/static/css/main.499f91f3.css.map",
-    "main.e17340a2.js.map": "/QR_code.git/static/js/main.e17340a2.js.map"
+    "main.css": "/QR_code/static/css/main.499f91f3.css",
+    "main.js": "/QR_code/static/js/main.fd0ba623.js",
+    "static/media/ph1.jpg": "/QR_code/static/media/ph1.11702bd588481d42fb50.jpg",
+    "index.html": "/QR_code/index.html",
+    "main.499f91f3.css.map": "/QR_code/static/css/main.499f91f3.css.map",
+    "main.fd0ba623.js.map": "/QR_code/static/js/main.fd0ba623.js.map"
   },
   "entrypoints": [
     "static/css/main.499f91f3.css",
-    "static/js/main.e17340a2.js"
+    "static/js/main.fd0ba623.js"
   ]
 }
